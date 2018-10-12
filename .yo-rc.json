@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.smallframework.small",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "small",
+    "packageName": "org.smallframework.small",
+    "packageFolder": "org/smallframework/small",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODE3ZWE4YWY5ZDFjODRjYzVjMzc2MGNhNWZlYTE2YjQ4NGFiZDQwZDgzZTJkZjk3ZjYyNDBiOTFkOTAzZjk2NWY1OTE4NmRjMGVjODk4ZWY5NTJjMDI1ZDAyOGZjNmM2MTBlOGZjMTM1YmIwMzYyZDRhZmU5NzRjMDZiYzQ5OGE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
